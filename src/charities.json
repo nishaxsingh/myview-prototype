@@ -1,0 +1,568 @@
+{
+  "charities": [
+    {
+      "type": "Animal",
+      "charity": "Battersea",
+      "society": "Animal Trust",
+      "description": "Battersea aims to never turn away a dog or cat in need of help"
+    },
+    {
+      "type": "Environmental",
+      "charity": "Marine Conservation Society",
+      "society": "Animal Trust",
+      "description": "The Marine Conservation Society (MCS) champions the need for marine wildlife protection, sustainable fisheries and clean seas and beaches."
+    },
+    {
+      "type": "Health",
+      "charity": "RDA - Riding for the disabled",
+      "society": "Animal Trust",
+      "description": "Riding for the Disabled Association (RDA) uses the power of horses to improve the lives of disabled adults and children across the UK."
+    },
+    {
+      "type": "Animal",
+      "charity": "WWT - Wetlands for life",
+      "society": "Animal Trust",
+      "description": "Wetlands are home to more types of wildlife than almost any other habitat, including animals as diverse as birds, mammals, insects and amphibians. Wildfowl & Wetlands Trust has nine Wetland Centres, which welcome nearly a million visitors a year."
+    },
+    {
+      "type": "Children",
+      "charity": "AfricaKids",
+      "society": "African Trust",
+      "description": "AfriKids believes in the rights of all children, everywhere, and that they should be valued, protected and respected by all."
+    },
+    {
+      "type": "Developing World",
+      "charity": "amref Health Africa",
+      "society": "African Trust",
+      "description": "Amref Health Africa UK works in more than 30 African countries to achieve their objective of lasting, locally-led health change"
+    },
+    {
+      "type": "Developing World",
+      "charity": "Book Aid International",
+      "society": "African Trust",
+      "description": "Book Aid International knows that books change lives. The charity works in partnership with libraries in Africa providing new books, resources and training to support an environment in which reading for pleasure, study and lifelong learning can flourish."
+    },
+    {
+      "type": "Children",
+      "charity": "Mary's Meals",
+      "society": "African Trust",
+      "description": "By providing a nutritious daily meal in school, Mary's Meals attracts chronically hungry children to the classroom"
+    },
+    {
+      "type": "Developing World",
+      "charity": "NDLOVU - Care Group",
+      "society": "African Trust",
+      "description": "Ndlovu Care Group is an innovative, multi-award winning community development group that has been operating in rural areas of South Africa since 1994. Their mission is to help rural communities achieve advancements in sustainable health, childcare, and community development services."
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Peace Direct",
+      "society": "Equality Trust",
+      "description": "Peace Direct's mission is to make a positive difference to people whose lives are affected by war"
+    },
+    {
+      "type": "Care",
+      "charity": "Carers Trust",
+      "society": "Care Trust",
+      "description": "Carers Trust is a major charity for, with, and about carers"
+    },
+    {
+      "type": "Care",
+      "charity": "Misssing People",
+      "society": "Care Trust",
+      "description": "Missing People is a lifeline for the 250,000 people who run away and go missing every year. Players' support makes our support possible."
+    },
+    {
+      "type": "Care",
+      "charity": "The Prince of Wales Charitable Foundation",
+      "society": "Care Trust",
+      "description": "The Prince of Wales's Charitable Foundation is inspired by His Royal Highness's values of harmony and sustainability."
+    },
+    {
+      "type": "Care",
+      "charity": "The Reader",
+      "society": "Care Trust",
+      "description": "The Reader is a national charity which pioneers Shared Reading, a simple idea that changes lives"
+    },
+    {
+      "type": "Children",
+      "charity": "Children 1st",
+      "society": "Children Trust",
+      "description": "Children 1st listens, supports and takes action to secure a brighter future for Scotland's vulnerable children and families."
+    },
+    {
+      "type": "Children",
+      "charity": "Children North East",
+      "society": "Children Trust",
+      "description": "Children North East supports families in need and gives children and young people opportunities that enrich their lives."
+    },
+    {
+      "type": "Children",
+      "charity": "Daisy Chain",
+      "society": "Children Trust",
+      "description": "Daisy Chain was established thirteen years ago as a result of founder Lesley Hanson wanting to \"…make Daisy Chain a haven for families affected by autism and special needs, a place where they can go and find something in life that gives them pleasure.\" The charity currently supports over 1,600 families."
+    },
+    {
+      "type": "Children",
+      "charity": "Girlguiding",
+      "society": "Children Trust",
+      "description": "Thanks to the dedication and support of 100,000 amazing volunteers, Girlguiding is active in every part of the UK, giving girls and young women a space where they can be themselves, have fun, build brilliant friendships, gain valuable life skills and make a positive difference to their lives and their communities."
+    },
+    {
+      "type": "Children",
+      "charity": "Magic Breakfast",
+      "society": "Children Trust",
+      "description": "Magic Breakfast provides healthy breakfasts to thousands of children across the country, ensuring that they do not start the day too hungry to learn."
+    },
+    {
+      "type": "Children",
+      "charity": "Place2Be",
+      "society": "Children Trust",
+      "description": "Place2Be enhances the wellbeing and prospects of children, and their families, by providing therapeutic and emotional support in schools"
+    },
+    {
+      "type": "Children",
+      "charity": "Whizz-Kidz",
+      "society": "Children Trust",
+      "description": "Whizz-Kidz changes the lives of disabled children and young people in the UK by providing them with the most appropriate mobility equipment, opportunities to meet others and training courses to help them to gain new skills."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "Edinburgh International Book Festival",
+      "society": "Culture Trust",
+      "description": "The Edinburgh International Book Festival is the largest public celebration of books in the world, with 800 authors from over 40 different countries appearing in roughly 750 events every August."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "mac Birmingham",
+      "society": "Culture Trust",
+      "description": "Founded in 1962, mac birmingham is one of the most important and busiest arts centres in the UK. It exists to make participation in innovative, creative arts activities an important part of people's lives. mac birmingham is the top visitor attraction in the West Midlands and the fifteenth in the UK."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "National Gallaries of Scotland",
+      "society": "Culture Trust",
+      "description": "The National Galleries of Scotland (NGS) look after one of the world's finest collections of Western art ranging from the Middle Ages to the present day including Scotland's national collection of Scottish and international fine art and photography. The generous support of the People's Postcode Lottery allows NGS to reach a wider public across Scotland and helps them to make spectacular exhibitions and acquisitions for the enjoyment and inspiration of visitors of all ages."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "National Museums Scotland",
+      "society": "Culture Trust",
+      "description": "The mission of National Museums Scotland is to preserve, interpret and make accessible for all, the past and present of Scotland, other nations and cultures and the natural world."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "Naional Museums Wales",
+      "society": "Culture Trust",
+      "description": "National Museum Wales (Amgueddfa Cymru) create living museums where the collections tell their stories clearly. Visitors are invited to experience life in the past and present and explore a variety of possible futures."
+    },
+    {
+      "type": "Children",
+      "charity": "Sistema Scotland",
+      "society": "Culture Trust",
+      "description": "Sistema Scotland was set up in the belief that children can gain huge social benefits by playing in a symphony orchestra. The charity's Big Noise Orchestras work with around 2,500 children, ranging from babies through to teenagers, helping them to realise their full potential."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "V&A Museum of Design Dundee",
+      "society": "Culture Trust",
+      "description": "V&A Museum of Design Dundee will be an international centre for design that will develop over 1,700 square metres of flexible gallery space, boasting one of the largest dedicated museum-standard exhibition spaces in Scotland."
+    },
+    {
+      "type": "Children",
+      "charity": "Youth Music",
+      "society": "Culture Trust",
+      "description": "Youth Music is a national charity investing in music-making projects for children and young people experiencing challenging circumstances. The funding Youth Music receives from players of People's Postcode Lottery helps the charity support projects for over 75,000 young people across the country."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "National Trust",
+      "society": "Earth Trust",
+      "description": "The National Trust looks after special places, forever, for everyone."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "The National Trust for Scotland",
+      "society": "Earth Trust",
+      "description": "The National Trust for Scotland was established in 1931. It is Scotland's largest conservation and membership charity. Its purpose is to protect, conserve and promote Scottish heritage."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Royal Botanic Garden Edinburgh",
+      "society": "Earth Trust",
+      "description": "The Royal Botanic Garden Edinburgh (RBGE) was founded in the 17th century as a physic garden. Now it extends over four Gardens boasting a rich living collection of plants, and is a world-renowned centre for plant science and education."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Royal Botanic Gardens Kew",
+      "society": "Earth Trust",
+      "description": "Kew Gardens is one of the world's best loved botanic gardens, and a world-leading centre for plant science and conservation. Plants provide the oxygen we breathe, protect freshwater supplies, are a rich source of medicines, and provide food for animals – including humans. Without them, we would soon perish."
+    },
+    {
+      "type": "Culture/Musems",
+      "charity": "Science Museum Group",
+      "society": "Earth Trust",
+      "description": "The Science Museum Group aims to create new projects which will inspire the next generation of scientists and bring exciting and contemporary science events and exhibitions to the public."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Yorkshire Dales Millennium Trust",
+      "society": "Earth Trust",
+      "description": "Yorkshire Dales Millennium Trust (YDMT) works to support every aspect of life in the Yorkshire Dales. YDMT is a small charity doing big things to protect and enhance the environmental, social and economic well-being of the Yorkshire Dales."
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Clooney Foundation for Justice",
+      "society": "Equality Trust",
+      "description": "The Clooney Foundation for Justice advances justice in courtrooms, classes and communities"
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Helen Bamber Foundation",
+      "society": "Equality Trust",
+      "description": "The Helen Bamber Foundation supports refugees and asylum seekers who've experienced extreme human cruelty, such as torture and human trafficking"
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Human Rights Watch",
+      "society": "Equality Trust",
+      "description": "Human Rights Watch works to defend and protect human rights around the world"
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Liberty",
+      "society": "Equality Trust",
+      "description": "Liberty campaigns for everyone in the UK to be treated fairly, with dignity and respect"
+    },
+    {
+      "type": "Developing World",
+      "charity": "Child and Youth Finance International",
+      "society": "Global Trust",
+      "description": "Funding from players of People's Postcode Lottery will allow Child & Youth Finance International (CYFI) to help children and young people save money, stay in school, gain and retain employment and ultimately achieve their dreams. Together, players of People's Postcode Lottery and CYFI will reshape the future of finance for millions of young people in the UK and abroad."
+    },
+    {
+      "type": "Developing World",
+      "charity": "Medecins Sans Frontieres - Doctors without Borders",
+      "society": "Global Trust",
+      "description": "Médecins Sans Frontières (MSF) is an international, independent, humanitarian organisation with teams delivering healthcare in emergencies as well as long-term crises. They exist to save lives by providing medical and humanitarian aid where it is needed the most."
+    },
+    {
+      "type": "Developing World",
+      "charity": "Theirworld",
+      "society": "Global Trust",
+      "description": "Theirworld, which was founded by Sarah Brown over a decade ago, is dedicated to projects that give vulnerable children a brighter future."
+    },
+    {
+      "type": "Environmental",
+      "charity": "Ellen MacArther Foundation",
+      "society": "Green Trust",
+      "description": "The Ellen MacArthur Foundation's mission is to accelerate the transition to a circular economy"
+    },
+    {
+      "type": "Environmental",
+      "charity": "Keep Britian Tiday",
+      "society": "Green Trust",
+      "description": "Keep Britain Tidy supports people who want to care for their environment"
+    },
+    {
+      "type": "Environmental",
+      "charity": "TCY - The Conservation Volunteers",
+      "society": "Green Trust",
+      "description": "The Conservation Volunteers charity wants to improve health and wellbeing through volunteering"
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "The Royal Parks",
+      "society": "Green Trust",
+      "description": "The Royal Parks is the charity managing 5,000 acres of precious green space across London"
+    },
+    {
+      "type": "Community",
+      "charity": "Dame Kelly Holmes Trust",
+      "society": "Heroes Trust",
+      "description": "Dame Kelly Holmes Trust work with young people facing disadvantage to empower them to realise the attitudes and behaviours needed to lead a positive life."
+    },
+    {
+      "type": "Health",
+      "charity": "Ellen MacArther Cancer Trust",
+      "society": "Heroes Trust",
+      "description": "The Ellen MacArthur Cancer Trust works with young people from all over the UK aged 8–24 and uses sailing to help them regain their confidence on their way to recovery from cancer and leukaemia."
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Not on Our Watch",
+      "society": "Heroes Trust",
+      "description": "Not On Our Watch aims to bring an end to complex conflicts that the wider international community may not be aware of"
+    },
+    {
+      "type": "Developing World",
+      "charity": "TheSentry",
+      "society": "Heroes Trust",
+      "description": "The Sentry investigates and focuses on corrupt transnational networks responsible for Africa's deadliest conflicts"
+    },
+    {
+      "type": "Care",
+      "charity": "Tottenham Hotsput Foundation",
+      "society": "Heroes Trust",
+      "description": "Tottenham Hotspur Foundation is committed to providing the best sports, health, training, and education programmes for the community. Their role involves creating opportunities, encouraging enterprise and innovation, promoting social cohesion and enhancing life skills."
+    },
+    {
+      "type": "Environmental",
+      "charity": "African Parks",
+      "society": "Planet Trust",
+      "description": "African Parks manages and restores national parks in Africa, in partnership with governments and local communities. By combining world-class conservation practices with business expertise, African Parks aims to make these wildlife parks socially and economically viable, particularly for the benefit of local communities."
+    },
+    {
+      "type": "Developing World",
+      "charity": "APOPO",
+      "society": "Planet Trust",
+      "description": "APOPO is a Belgian NGO that developed an innovative method using African giant pouched rats, nicknamed \"HeroRATs\", to detect landmines and tuberculosis using their extraordinary sense of smell."
+    },
+    {
+      "type": "Environmental",
+      "charity": "Global Witness",
+      "society": "Planet Trust",
+      "description": "For two decades, Global Witness has been campaigning for full transparency in natural resourcing"
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Royal Zoological Society of Scotland",
+      "society": "Planet Trust",
+      "description": "The Royal Zoological Society of Scotland (RZSS) is a national charity that owns and manages Edinburgh Zoo and the Highland Wildlife Park. RZSS is at the forefront of international thinking on how to protect endangered animals in a way that is engaging and inspiring for visitors."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Zoological Society of London",
+      "society": "Planet Trust",
+      "description": "The Zoological Society of London is committed to protecting and conserving species of animals and their habitats across the world"
+    },
+    {
+      "type": "Children",
+      "charity": "Cruyff Foundation",
+      "society": "Sport Trust",
+      "description": "The Cruyff Foundation was founded in 1997 by footballer Johan Cruyff to encourage kids to be more active through sport, play and exercise. It's the Foundation's belief that sport is not just for fun, but is vital for the development and health of children. The Foundation works all over the world in association with schools, sporting federations, businesses and government authorities."
+    },
+    {
+      "type": "Children",
+      "charity": "Greenhouse Sports",
+      "society": "Sport Trust",
+      "description": "Greenhouse Sports believes in the power of sport to raise the aspirations of young people and help them reach their full potential."
+    },
+    {
+      "type": "Children",
+      "charity": "Lord Taverners",
+      "society": "Sport Trust",
+      "description": "The Lord's Taverners is the UK's leading youth cricket and disability sports charity. Their objective is to give disadvantaged and disabled young people a sporting chance."
+    },
+    {
+      "type": "Community",
+      "charity": "Street League",
+      "society": "Sport Trust",
+      "description": "Street League is a national charity which uses football to tackle youth unemployment across the UK."
+    },
+    {
+      "type": "Isolation/Loneliness",
+      "charity": "Contact the Elderly",
+      "society": "Support Trust",
+      "description": "Contact the Elderly is a national charity dedicated to combatting loneliness and social isolation among older people"
+    },
+    {
+      "type": "Health",
+      "charity": "Dementia Adventure",
+      "society": "Support Trust",
+      "description": "Dementia Adventure is an award winning registered charity committed to helping people living with dementia get outdoors, connect with nature, themselves and their community, and retain a sense of adventure in their lives."
+    },
+    {
+      "type": "Community",
+      "charity": "Grandparents Plus",
+      "society": "Support Trust",
+      "description": "Grandparents Plus champions the wider family who care for children."
+    },
+    {
+      "type": "Isolation/Loneliness",
+      "charity": "The Silver Line",
+      "society": "Support Trust",
+      "description": "The Silver Line is a free, 24/7 helpline for older people who are suffering from loneliness or isolation"
+    },
+    {
+      "type": "Community",
+      "charity": "Volunteering Matters",
+      "society": "Support Trust",
+      "description": "Inspiring People, Changing Communities"
+    },
+    {
+      "type": "Developing World",
+      "charity": "Action Aid",
+      "society": "Promoting Society",
+      "description": "ActionAid is a leading international charity working in over 45 countries, changing the lives of the poorest, most disadvantaged women and children in the world – for good."
+    },
+    {
+      "type": "Human Rights",
+      "charity": "Amnesty International",
+      "society": "Promoting Society",
+      "description": "Amnesty International UK works to protect women, men and children wherever justice, freedom, truth, and dignity are denied."
+    },
+    {
+      "type": "Children",
+      "charity": "Barnardos",
+      "society": "Promoting Society",
+      "description": "Barnardo's purpose is to transform the lives of the UK's most vulnerable children through essential services, campaigning and research."
+    },
+    {
+      "type": "Health",
+      "charity": "Breast Cancer Care",
+      "society": "Promoting Society",
+      "description": "Breast Cancer Care is dedicated to supporting anyone affected by breast cancer across the UK."
+    },
+    {
+      "type": "Health",
+      "charity": "British Red Cross",
+      "society": "Promoting Society",
+      "description": "British Red Cross is the UK's leading emergency response charity and enables vulnerable people in the UK and abroad to prepare for and withstand emergencies in their own communities."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Canal and River Trust",
+      "society": "Promoting Society",
+      "description": "Canal & River Trust (CRT) is one of the UK's newest charities – having been created in July 2012 as the successor to British Waterways. CRT is the guardian of 2,000 miles of historic inland waterways in England and Wales including canals, rivers, docks and reservoirs – along with historic buildings, archives and three waterways museums."
+    },
+    {
+      "type": "Animal",
+      "charity": "Cats Protection",
+      "society": "Promoting Society",
+      "description": "Cats Protection is the UK's leading feline welfare charity."
+    },
+    {
+      "type": "Health",
+      "charity": "CLIC Sargent",
+      "society": "Promoting Society",
+      "description": "CLIC Sargent's mission is to change what it means to be diagnosed with cancer when you're young."
+    },
+    {
+      "type": "Homelessness",
+      "charity": "Crisis",
+      "society": "Promoting Society",
+      "description": "Crisis is dedicated to ending homelessness. They believe that in 21st century Britain, everybody should have a safe and secure place to live."
+    },
+    {
+      "type": "Homelessness",
+      "charity": "Depaul",
+      "society": "Promoting Society",
+      "description": "Founded 25 years ago, Depaul UK is the nationwide charity for youth homelessness, working to tackle the immediate and long term effects of homelessness and provide safe and stable futures for young people who are left behind by society and are severely disadvantaged."
+    },
+    {
+      "type": "Animal",
+      "charity": "Dogs Trust",
+      "society": "Promoting Society",
+      "description": "Dogs Trust is dedicated to creating a happy and healthy environment for dogs as they wait to find their 'furever' homes"
+    },
+    {
+      "type": "Environmental",
+      "charity": "Friends of the Earth",
+      "society": "Promoting Society",
+      "description": "Friends of the Earth England, Wales and Scotland has more than 200 local activist groups and is part of the largest grass roots environmental network in the world, uniting over 2 Million supporters and some 5,000 local groups in more than 75 countries."
+    },
+    {
+      "type": "Health",
+      "charity": "Maggies",
+      "society": "Promoting Society",
+      "description": "Maggie's are building and running a network of cancer support centres all over the UK. Designed by some of the world's best architects, they're warm, friendly, informal places, full of light and open space with a big kitchen at their heart."
+    },
+    {
+      "type": "Children",
+      "charity": "NSPCC",
+      "society": "Promoting Society",
+      "description": "Everything the NSPCC does protects children today, prevents abuse tomorrow and works to make child abuse a thing of the past"
+    },
+    {
+      "type": "Developing World",
+      "charity": "Oxfam",
+      "society": "Promoting Society",
+      "description": "Oxfam is a global movement of people who won’t live with poverty, and they work together to end this injustice for everyone."
+    },
+    {
+      "type": "Animal",
+      "charity": "PDSA",
+      "society": "Promoting Society",
+      "description": "PDSA is the UK's leading veterinary charity and offers free services to the sick and injured pets of people in need. This amazing charity also promotes responsible pet ownership."
+    },
+    {
+      "type": "Children",
+      "charity": "Plan international UK",
+      "society": "Promoting Society",
+      "description": "Plan International UK is a children's charity that strives to advance children's rights and equality for girls all over the world."
+    },
+    {
+      "type": "Health",
+      "charity": "RNIB",
+      "society": "Promoting Society",
+      "description": "The Royal National Institute of Blind People is one of the UK's leading sight loss charities."
+    },
+    {
+      "type": "Isolation/Loneliness",
+      "charity": "Royal Voluntary Service",
+      "society": "Promoting Society",
+      "description": "Royal Voluntary Service is a national charity that helps older people stay active, healthy and involved in their local community. Since 2015, funds raised by players have helped Royal Voluntary Service to provide practical help, companionship and social activities for over 30,000 older people."
+    },
+    {
+      "type": "Children",
+      "charity": "Save the Children",
+      "society": "Promoting Society",
+      "description": "Save the Children supports families in the UK when it matters mos"
+    },
+    {
+      "type": "Health",
+      "charity": "Sightsavers",
+      "society": "Promoting Society",
+      "description": "Working in over 30 countries, Sightsavers has a vision of a world where avoidable blindness is eliminated."
+    },
+    {
+      "type": "Health",
+      "charity": "Guide Dogs for the Blind",
+      "society": "Promoting Society",
+      "description": "The Guide Dogs For The Blind Association wants a future of confidence and support for every person with sight loss"
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "The Ramblers",
+      "society": "Promoting Society",
+      "description": "The Ramblers helps everyone, everywhere enjoy walking and protects the places we all love to walk."
+    },
+    {
+      "type": "Children",
+      "charity": "Unicef UK",
+      "society": "Promoting Society",
+      "description": "Unicef is here for every child in danger."
+    },
+    {
+      "type": "Developing World",
+      "charity": "War Child",
+      "society": "Promoting Society",
+      "description": "War Child's vision is a world in which the lives of children are no longer torn apart by war. This fantastic charity works hard to support and improve the protection and care of children and young people who live with a combination of insecurity, poverty and exclusion in some of the world's worst conflict-affected places."
+    },
+    {
+      "type": "Developing World",
+      "charity": "Warter Aid",
+      "society": "Promoting Society",
+      "description": "WaterAid's vision is a world where everyone, everywhere has access to safe water, sanitation and hygiene. They work with local partners and communities to implement low cost, effective technologies which meet the real needs of everyone in the community, with a focus on the poorest and most vulnerable."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "The Wildlife Trusts",
+      "society": "Promoting Society",
+      "description": "The Wildlife Trusts believe everyone should have the opportunity to experience wildlife in their daily lives."
+    },
+    {
+      "type": "Historical/outdoor sites",
+      "charity": "Woodland Trust",
+      "society": "Promoting Society",
+      "description": "Woodland Trust creates, protects and restores native woodland across the UK."
+    },
+    {
+      "type": "Environmental",
+      "charity": "WWF-UK",
+      "society": "Promoting Society",
+      "description": "Our players' support helps WWF-UK build a future in which people and nature thrive."
+    }
+  ]
+}
